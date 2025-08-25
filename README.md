@@ -1,4 +1,4 @@
-![logo](https://github.com/mahammadnur/mahammadnur/blob/main/Black%20and%20Yellow%20Dynamic%20Frames%20Community%20Protest%20Crisis%20Hub%20Linkedin%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Nur Mahammad</h1>
 <h3 align="center">A passionate Software developer Undergraduate Student from India.</h3>
 <img align = "right" alt = "Programming" width="400" src"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
